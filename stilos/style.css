@@ -48,7 +48,7 @@ main::before{
     inset: 0;
     content: '';
     z-index: -1;
-    filter: brightness(0.08);
+    filter: brightness(0.15);
     background-image: url('../images/Fundo4.jpg');
     background-repeat: no-repeat;
     background-position: center;
